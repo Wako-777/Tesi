@@ -226,6 +226,7 @@ def plot_MHQ_3level(Q, TPM, autovalori_1, autovalori_2):
 
     plt.tight_layout()
     plt.show()
+    
 
 
 
